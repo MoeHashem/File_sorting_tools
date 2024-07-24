@@ -10,7 +10,7 @@ import pandas as pd
 import csv
 
 ###INPUTS####
-folder_path = r"C:\\Users\\Mohammed.Hashem\\Desktop\\S-103A-GEN-0000-001-002-A" #complete path eg. "C:\Users\XXXXX\Desktop\folder_name"
+folder_path = r"C:\Users\Mohammed.Hashem\Desktop\test" #complete path eg. "C:\Users\XXXXX\Desktop\folder_name"
 txt_file_name = "File_Names.txt"     #just the file name eg. "filenames.txt"
 table_file_name = "CAD_PDF_Check.txt"   #name of the table file (change to .csv if you want excel table, txt for quick and dirty view - recommended)
 file_types_to_track = ["pdf", "dwg"]

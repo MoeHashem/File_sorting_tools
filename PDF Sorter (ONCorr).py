@@ -5,7 +5,7 @@
 
 import os
 
-path = r"C:\Users\Mohammed.Hashem\OneDrive - Arup\Projects\07 - On-Corr\DMRP Reviews\Woodbine"
+path = r"C:\Users\Mohammed.Hashem\OneDrive - Arup\Projects\07 - On-Corr\11 - LSW Submission Review\06-Corridor Submissions\LSW Cordr Pck A 240624"
 
 type_filter = [".pdf", ".py", ".txt"]
 folders = []

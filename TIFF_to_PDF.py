@@ -49,7 +49,7 @@ def save_images_as_pdf(images, output_pdf_path):
         pdf_writer.write(output_pdf_file)
 
 def main():
-    base_folder_path = r"C:\projectwise\can_ds01\d0123954\Metrolinx_1276_ECWE_30Jun2021_Bridges"  # Replace with the path to your folder
+    base_folder_path = r"C:\Users\Mohammed.Hashem\Desktop\TPH02011SCANS"  # Replace with the path to your folder
 
     # Walk through all subdirectories in the base folder
     for root, dirs, files in os.walk(base_folder_path):
